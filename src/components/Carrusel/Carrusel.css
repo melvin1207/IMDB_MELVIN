@@ -1,0 +1,43 @@
+#carruselImage{
+  height: 600px;
+}
+
+#carruselImage > img {
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+
+#posterText {
+  color: aliceblue;
+  position: absolute;
+  padding: 5rem;
+  bottom: 0px;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: flex-start;
+}   
+
+#title {
+  font-weight: 1000;
+  font-size: 4rem;
+  text-align: left;
+}
+
+#date {
+  font-size: 2rem;
+}
+
+#rating {
+  margin-left: 3rem;
+}
+
+#description {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+  text-align: left;
+  width: 60%;
+}

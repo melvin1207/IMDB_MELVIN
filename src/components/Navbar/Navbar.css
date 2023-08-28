@@ -1,0 +1,19 @@
+a > span{
+  margin: 0 30px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: white;
+}
+
+a > span:hover {
+  color: rgb(207, 210, 42);
+}
+
+.icon {
+  width: 80px;
+  cursor: pointer;
+}
+
+.user__avatar {
+  font-size: 2rem;
+}

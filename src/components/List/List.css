@@ -1,0 +1,27 @@
+#list {
+  padding: 0 3rem 3rem 3rem;
+}
+
+#Title {
+  color: aliceblue;
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+
+#cards {
+  display: flex;
+  flex-wrap: wrap ;
+  justify-content: center;
+}
+
+#number{
+  color: aliceblue;
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
